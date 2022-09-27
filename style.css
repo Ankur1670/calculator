@@ -1,0 +1,100 @@
+.container{
+    text-align: center;
+    margin-top:23px;
+    /* border: 10px solid black; */
+    
+    
+}
+.container h1{
+    font-weight: 800;
+    font-size: 45px;
+    font-family: 'Poppins', sans-serif;
+}
+
+table{
+    margin: auto;
+    font-size: xx-large;
+   
+}
+
+input{
+    margin-top: 23px;
+    border-radius: 21px;
+    border: 0px;
+    background:white;
+    color: black;
+    font-size:34px;
+    height: 65px;
+    width: 400px;
+    box-shadow: inset -5px -5px 12px #ffffff,
+    inset 5px 5px 12px rgba(0,0,0,.16);
+
+
+}
+
+button {
+    border: 0px;
+    border-radius: 50px;
+    font-size: 40px;
+    background: #978fa0;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+    box-shadow: inset -5px -5px 12px #ffffff,
+                inset 5px 5px 12px rgba(0,0,0,.16);
+
+    }
+
+table tr td .a{
+    border-radius: 50px;
+    font-size: 40px;
+    background: white;
+    /* background: -webkit-gradient(linear, left top, right top, from(rgb(6, 6, 6)), to(rgba(240, 241, 245, 0.999)));
+    background: linear-gradient(90deg, rgb(6, 6, 6) 0%,rgba(240, 241, 245, 0.999) 100%); */
+    color: black;
+   
+}
+table tr td .b{
+    border-radius: 50px;
+    font-size: 40px;
+    background:white;
+    /* background: -webkit-gradient(linear, left top, right top, from(rgba(161, 19, 19, 0.602)), to(rgba(234, 186, 14, 0.999)));
+    background: linear-gradient(90deg, rgba(161, 19, 19, 0.602) 0%,rgba(234, 186, 14, 0.999) 100%); */
+    color: black;
+}
+table tr td .c{
+    border-radius: 50px;
+    font-size: 40px;
+    background:white;
+    /* background: -webkit-gradient(linear, left top, right top, from(rgba(82, 11, 236, 0.986)), to(rgba(137, 11, 215, 0.999)));
+    background: linear-gradient(90deg, rgba(82, 11, 236, 0.986) 0%,rgba(137, 11, 215, 0.999) 100%); */
+    color: black;
+}
+table tr td .d{
+    border-radius: 50px;
+    font-size: 40px;
+    background:white;
+    /* background: -webkit-gradient(linear, left top, right top, from(rgba(20, 154, 226, 0.986)), to(rgba(215, 123, 11, 0.999)));
+    background: linear-gradient(90deg, rgba(20, 154, 226, 0.986) 0%,rgba(215, 123, 11, 0.999) 100%); */
+    color:black
+}
+table tr td .e{
+    /* border-radius: 50px; */
+    font-size: 40px;
+    background : white;
+    /* background: -webkit-gradient(linear, left top, right top, from(rgba(255,59,0)), to(rgb(243, 243, 247)));
+    background: linear-gradient(90deg, rgba(255,59,0) 0%,rgb(243, 243, 247) 100%); */
+    color: black;
+}
+.calculator{ 
+    box-shadow:  5px 5px 12px #ffffff,
+             5px 5px 12px rgba(0,0,0,.16);
+
+    border-radius: 23px;
+    /* background: purple;
+    background: -webkit-gradient(linear, left top, right top, from(rgba(201, 10, 10, 0.771)), to(rgba(17, 36, 245, 0.972)));
+    background: linear-gradient(90deg, rgba(201, 10, 10, 0.771) 0%,rgba(17, 36, 245, 0.972) 100%); */
+    display: inline-block;
+    
+}
+
